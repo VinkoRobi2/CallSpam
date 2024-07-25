@@ -1,0 +1,21 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+*.env.*
+
+# Virtual environment
+venv/
+ENV/
+env/
+env.bak/
+env/
+
+# VS Code specific
+.vscode/
+
+# Twas environment file
+twas.env
